@@ -1,6 +1,6 @@
 # promp_enginering
 
-use pip install -r requirements
+use pip install -r requirements.txt
 
 then use panel serve chatbot.py --show --autoreload  for run the app
 
